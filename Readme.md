@@ -104,7 +104,7 @@ This project follows a layered **MVC-inspired** architecture:
 
 ```bash
 # Clone the repository
-git clone https://github.com/pranaviii29/silverview-hms.git
+git clone https://github.com/pranaviii29/hotel_management_system.git
 cd silverview-hms/HMS
 
 # Build and run
