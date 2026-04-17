@@ -1,12 +1,8 @@
 <div align="center">
 
-# 🏨 Silverview Grand — Hotel Management System
+# 🏨Hotel Management System
 
 A JavaFX-based Hotel Management System for managing rooms, bookings, services, and checkouts.
-
-![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=openjdk)
-![JavaFX](https://img.shields.io/badge/JavaFX-21.0.2-blue?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-3.6+-red?style=flat-square&logo=apachemaven)
 
 </div>
 
@@ -100,7 +96,7 @@ This project follows a layered **MVC-inspired** architecture:
 
 | Requirement | Version |
 |---|---|
-| JDK | 17 or higher |
+| JDK | 21 or higher |
 | Maven | 3.6+ |
 | JavaFX | Managed by Maven (no manual install needed) |
 
