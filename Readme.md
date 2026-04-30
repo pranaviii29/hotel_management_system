@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏨Hotel Management System
+# Hotel Management System
 
 A JavaFX-based Hotel Management System for managing rooms, bookings, services, and checkouts.
 
