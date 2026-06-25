@@ -104,7 +104,7 @@ This project follows a layered **MVC-inspired** architecture:
 
 ```bash
 # Clone the repository
-git clone https://github.com/pranaviii29/hotel_management_system.git
+git clone https://github.com/heyitspranaviii/hotel_management_system.git
 cd hotel_management_system/HMS
 
 # Build and run
